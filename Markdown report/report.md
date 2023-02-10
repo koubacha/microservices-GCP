@@ -1,6 +1,5 @@
 ---
-title: Deploying a JHipster Microservice Cluster to
-Kubernetes on GCP
+title: Deploying a JHipster Microservice Cluster to Kubernetes on GCP
 author: Abdelmajid Koubach (abdelmajid.koubach@grenoble-inp.org) & Mahmoud Mazouz (mahmoud.mazouz@grenoble-inp.org)
 date: February 10, 2023
 ---
@@ -113,13 +112,9 @@ execute).
 <figcaption>GCP dashboard</figcaption>
 </figure>
 
-The result looks like figure [1](#fig 1){reference-type="ref"
-reference="fig 1"} and [2](#fig 2){reference-type="ref"
-reference="fig 2"}. We also enabled horizontal pod autoscaling for a
-service (Invoice) as illustrated in figure
-[3](#fig 3){reference-type="ref" reference="fig 3"}. The GCP dashboard
-while the services are deployed looked like figure
-[4](#fig 4){reference-type="ref" reference="fig 4"}.
+The result looks like figure [1] and [2]. We also enabled horizontal pod autoscaling for a
+service (Invoice) as illustrated in figure [3]. The GCP dashboard
+while the services are deployed looked like figure [4].
 
 # Load Injection with Gatling
 
@@ -136,7 +131,7 @@ version (3.9.0) because of a few reasons :
     some errors in the compilation phase
 
 The result of the load injection with Gatling looks as shown in figure
-[5](#fig 5){reference-type="ref" reference="fig 5"}. The report is
+[5]. The report is
 available as well as the simulation used in the Github repository (in
 the folder gatling-charts-highcharts-bundle-3.9.0-bundle). We didn't
 notice any significant changes on the GCP dashboard after the Gatling
