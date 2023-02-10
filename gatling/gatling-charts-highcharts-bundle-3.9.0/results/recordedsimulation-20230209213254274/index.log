@@ -1,0 +1,390 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Homebrew) (preloaded format=pdftex 2023.1.12)  10 FEB 2023 18:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**index.tex
+(./index.tex
+! Undefined control sequence.
+l.1 \href
+         {https://gatling.io}{\includegraphics{style/logo.svg}}
+? 
+! Undefined control sequence.
+l.1 \href{https://gatling.io}{\includegraphics
+                                              {style/logo.svg}}
+? 
+! Undefined control sequence.
+l.2 \href
+         {https://gatling.io/docs/}{Documentation}
+? 
+! Undefined control sequence.
+l.4 \href
+         {https://gatling.io/enterprise/next-step/}{Try
+? 
+! Undefined control sequence.
+l.5 \includegraphics
+                    {style/logo-enterprise.svg}}
+? 
+! Undefined control sequence.
+l.9 \hypertarget
+                {sousMenu}{}
+? 
+! Undefined control sequence.
+l.10 \href
+          {index.html}{Global}
+? 
+! Undefined control sequence.
+l.12 \protect
+             \hypertarget{details_link}{\protect\hyperlink{}{Details}}
+? 
+! Undefined control sequence.
+l.12 \protect\hypertarget
+                         {details_link}{\protect\hyperlink{}{Details}}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.12 \protect\hypertarget{details_
+                                  link}{\protect\hyperlink{}{Details}}
+? 
+! Extra }, or forgotten $.
+l.12 \protect\hypertarget{details_link}
+                                       {\protect\hyperlink{}{Details}}
+? 
+! Undefined control sequence.
+l.12 \protect\hypertarget{details_link}{\protect
+                                                \hyperlink{}{Details}}
+? 
+! Undefined control sequence.
+l.12 ...pertarget{details_link}{\protect\hyperlink
+                                                  {}{Details}}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.13 
+     
+? 
+! Undefined control sequence.
+l.14 \hypertarget
+                 {ranges}{}
+? 
+! Undefined control sequence.
+l.16 \hypertarget
+                 {container_number_of_requests}{}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.16 \hypertarget{container_
+                            number_of_requests}{}
+? 
+! Extra }, or forgotten $.
+l.16 \hypertarget{container_number_of_requests}
+                                               {}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.17 
+     
+? 
+! Undefined control sequence.
+l.20 \hypertarget
+                 {simulation-information}{}
+? 
+! Undefined control sequence.
+l.26 \hypertarget
+                 {statistics_table_container}{}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.26 \hypertarget{statistics_
+                             table_container}{}
+? 
+! Extra }, or forgotten $.
+l.26 \hypertarget{statistics_table_container}
+                                             {}
+? 
+! Undefined control sequence.
+l.27 \hypertarget
+                 {stats}{}
+? 
+! Undefined control sequence.
+l.28 \hypertarget
+                 {statistics_title}{}
+? 
+! Undefined control sequence.
+l.29 {Stats}{Fixed height}\protect
+                                  \hypertarget{toggle-stats}{}{}{Full size}
+? 
+! Undefined control sequence.
+l.29 {Stats}{Fixed height}\protect\hypertarget
+                                              {toggle-stats}{}{}{Full size}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.30 
+     
+? 
+! Undefined control sequence.
+l.37 \begin
+           {longtable}[]{@{}llllllllllllll@{}}
+? 
+! Undefined control sequence.
+l.38 \caption
+             {}\label{container_statistics_head}\tabularnewline
+? 
+! Undefined control sequence.
+l.38 \caption{}\label
+                     {container_statistics_head}\tabularnewline
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.38 \caption{}\label{container_
+                                statistics_head}\tabularnewline
+? 
+! Extra }, or forgotten $.
+l.38 \caption{}\label{container_statistics_head}
+                                                \tabularnewline
+? 
+! Undefined control sequence.
+l.38 ...{container_statistics_head}\tabularnewline
+                                                  
+? 
+! Undefined control sequence.
+l.39 \toprule
+             ()
+? 
+! Undefined control sequence.
+l.40 \multirow
+              {2}{*}{{Requests}} &
+? 
+! Misplaced alignment tab character &.
+l.40 \multirow{2}{*}{{Requests}} &
+                                  
+? 
+! Undefined control sequence.
+l.41 \multicolumn
+                 {5}{>{\raggedright\arraybackslash}p{(\columnwidth - 26\tabc...
+
+? 
+! Undefined control sequence.
+l.41 \multicolumn{5}{>{\raggedright\arraybackslash
+                                                  }p{(\columnwidth - 26\tabc...
+
+? 
+! Undefined control sequence.
+l.41 ...raggedright\arraybackslash}p{(\columnwidth
+                                                   - 26\tabcolsep) * \real{0...
+
+? 
+! Undefined control sequence.
+l.41 ...aybackslash}p{(\columnwidth - 26\tabcolsep
+                                                  ) * \real{0.0000} + 8\tabc...
+
+? 
+! Undefined control sequence.
+l.41 ...sh}p{(\columnwidth - 26\tabcolsep) * \real
+                                                  {0.0000} + 8\tabcolsep}}{%
+? 
+! Undefined control sequence.
+l.41 ...6\tabcolsep) * \real{0.0000} + 8\tabcolsep
+                                                  }}{%
+? 
+! Misplaced alignment tab character &.
+l.42 {Executions}} &
+                    
+? 
+! Undefined control sequence.
+l.43 \multicolumn
+                 {8}{>{\raggedright\arraybackslash}p{(\columnwidth - 26\tabc...
+
+? 
+! Undefined control sequence.
+l.43 \multicolumn{8}{>{\raggedright\arraybackslash
+                                                  }p{(\columnwidth - 26\tabc...
+
+? 
+! Undefined control sequence.
+l.43 ...raggedright\arraybackslash}p{(\columnwidth
+                                                   - 26\tabcolsep) * \real{0...
+
+? 
+! Undefined control sequence.
+l.43 ...aybackslash}p{(\columnwidth - 26\tabcolsep
+                                                  ) * \real{0.0000} + 14\tab...
+
+? 
+! Undefined control sequence.
+l.43 ...sh}p{(\columnwidth - 26\tabcolsep) * \real
+                                                  {0.0000} + 14\tabcolsep}@{...
+
+? 
+! Undefined control sequence.
+l.43 ...\tabcolsep) * \real{0.0000} + 14\tabcolsep
+                                                  }@{}}{%
+? 
+Runaway argument?
+ & {Total} & {OK} & {KO} & {\% KO} & {Cnt/s} & {Min} & {50th pct} & {\ETC.
+! Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.61 
+     
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.61 
+     
+? 
+
+Overfull \hbox (164.90721pt too wide) in paragraph at lines 37--61
+[]\tenrm longtable[]@llllllllllllll@ container$[]\teni tatistics[]ead\tenrm ()2
+[][]5[][]8[][]$ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm l
+.\tenrm o
+.\tenrm n
+.\tenrm g
+.etc.
+
+! Undefined control sequence.
+l.64 \hypertarget
+                 {statistics_table_modal_content}{}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.64 \hypertarget{statistics_
+                             table_modal_content}{}
+? 
+! Extra }, or forgotten $.
+l.64 \hypertarget{statistics_table_modal_content}
+                                                 {}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.65 
+     
+? 
+! Undefined control sequence.
+l.66 \hypertarget
+                 {active_users}{}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.66 \hypertarget{active_
+                         users}{}
+? 
+! Extra }, or forgotten $.
+l.66 \hypertarget{active_users}
+                               {}
+? help
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.67 
+     
+? 
+! Undefined control sequence.
+l.68 \hypertarget
+                 {responsetimeDistributionContainer}{}
+? 
+! Undefined control sequence.
+l.70 \hypertarget
+                 {responsetimepercentilesovertimeokPercentilesContainer}{}
+? 
+! Undefined control sequence.
+l.72 \hypertarget
+                 {requests}{}
+? 
+! Undefined control sequence.
+l.74 \hypertarget
+                 {responses}{}
+? 
+)
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+[1{/opt/homebrew/Cellar/texlive/20220321_4/share/texmf-dist/fonts/map/pdftex/up
+dmap/pdftex.map}]
+(\end occurred inside a group at level 6)
+
+### simple group (level 6) entered at line 66 ({)
+### simple group (level 5) entered at line 64 ({)
+### simple group (level 4) entered at line 38 ({)
+### simple group (level 3) entered at line 26 ({)
+### simple group (level 2) entered at line 16 ({)
+### simple group (level 1) entered at line 12 ({)
+### bottom level</opt/homebrew/Cellar/texlive/20220321_4/share/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb></opt/homebrew/Cellar/texlive/20220321_4/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/homebrew/Cellar/
+texlive/20220321_4/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+opt/homebrew/Cellar/texlive/20220321_4/share/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb>
+Output written on index.pdf (1 page, 51751 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

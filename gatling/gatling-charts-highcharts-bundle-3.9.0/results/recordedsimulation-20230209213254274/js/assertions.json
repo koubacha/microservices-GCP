@@ -1,0 +1,10 @@
+{
+  "simulation": "RecordedSimulation",
+  "simulationId": "recordedsimulation-20230209213254274",
+  "start": 1675978375243,
+  "description": "Invoice load injection on the online-store app",
+  "scenarios": ["RecordedSimulation"],
+  "assertions": [
+
+  ]
+}
